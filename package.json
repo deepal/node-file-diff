@@ -1,0 +1,27 @@
+{
+  "name": "file-diff",
+  "version": "1.0.1",
+  "description": "Monitor a file and return a diff when the file changes",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpjayasekara/node-file-diff.git"
+  },
+  "keywords": [
+    "diff",
+    "monitor",
+    "file"
+  ],
+  "author": "Deepal Jayasekara <dpjayasekara@gmail.com> (http://insiderattack.blogspot.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dpjayasekara/node-file-diff/issues"
+  },
+  "homepage": "https://github.com/dpjayasekara/node-file-diff#readme",
+  "dependencies": {
+    "diff": "3.0.1"
+  }
+}
