@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/dpjayasekara/node-file-diff#readme",
   "dependencies": {
-    "diff": "3.0.1"
+    "diff": "3.5.0"
   }
 }
